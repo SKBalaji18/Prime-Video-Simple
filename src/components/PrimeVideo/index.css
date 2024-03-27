@@ -1,0 +1,22 @@
+.pv-banner {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
+
+.pv-bg-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.movies-container {
+  padding: 55px;
+  margin-top: 15px;
+}
+
+.movie-category {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 600;
+}

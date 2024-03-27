@@ -1,0 +1,38 @@
+.thumbnail-img {
+  width: 215px;
+  height: 150px;
+  margin: auto;
+  cursor: pointer;
+}
+
+.mod-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.close-btn {
+  align-self: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+.popup-content {
+  background-color: #ffffff;
+  width: 750px;
+  height: 460px;
+  border-radius: 12px;
+  padding: 15px;
+}
+
+.mv-player-cont {
+  margin-top: 12px;
+  margin-bottom: 48px;
+  margin-left: 48px;
+  margin-right: 48px;
+}
